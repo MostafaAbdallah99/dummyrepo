@@ -2,3 +2,9 @@ test
 test
 islam
 test
+<<<<<<< HEAD
+=======
+Hello
+this should introduce a conflict made by my self islam
+
+>>>>>>> e0259b1e43f5bdd7fc0f0d91036ce3982ae00602
